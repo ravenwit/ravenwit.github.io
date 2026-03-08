@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ravenwit.me/sitemap-index.xml
-Host: https://ravenwit.me
