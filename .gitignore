@@ -1,0 +1,4 @@
+# Ignore binary files larger than GitHub's 100MB file limit
+data/*_256.bin
+.DS_Store
+*.DS_Store
